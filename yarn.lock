@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@apollo/client@^3.5.5":
-  version "3.5.6"
-  resolved "https://registry.yarnpkg.com/@apollo/client/-/client-3.5.6.tgz#911929df073280689efd98e5603047b79e0c39a2"
-  integrity sha512-XHoouuEJ4L37mtfftcHHO1caCRrKKAofAwqRoq28UQIPMJk+e7n3X9OtRRNXKk/9tmhNkwelSary+EilfPwI7A==
+"@apollo/client@^3.5.7":
+  version "3.5.7"
+  resolved "https://registry.yarnpkg.com/@apollo/client/-/client-3.5.7.tgz#38051c0a414ebf784319fa5131faa19df24fa9ec"
+  integrity sha512-HSLqTGp3sp/PVIWYLLr5v3fjQSr6Fxg6Z5RQj5Q9ALyseIVudD8GZk1jHplaUblTFMBueXGw3Z6DXObuVAr3tw==
   dependencies:
     "@graphql-typed-document-node/core" "^3.0.0"
     "@wry/context" "^0.6.0"
@@ -2867,10 +2867,10 @@
     lz-string "^1.4.4"
     pretty-format "^26.6.2"
 
-"@testing-library/dom@^8.0.0":
-  version "8.11.1"
-  resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-8.11.1.tgz#03fa2684aa09ade589b460db46b4c7be9fc69753"
-  integrity sha512-3KQDyx9r0RKYailW2MiYrSSKEfH0GTkI51UGEvJenvcoDoeRYs0PZpi2SXqtnMClQvCqdtTTpOfFETDTVADpAg==
+"@testing-library/dom@^8.0.0", "@testing-library/dom@^8.11.2":
+  version "8.11.2"
+  resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-8.11.2.tgz#fc110c665a066c2287be765e4a35ba8dad737015"
+  integrity sha512-idsS/cqbYudXcVWngc1PuWNmXs416oBy2g/7Q8QAUREt5Z3MUkAL2XJD7xazLJ6esDfqRDi/ZBxk+OPPXitHRw==
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/runtime" "^7.12.5"
