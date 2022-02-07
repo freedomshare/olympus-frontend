@@ -1,8 +1,8 @@
 {
-  "short_name": "OlympusDAO",
+  "short_name": "Your Clone",
   "start_url": ".",
   "homepage": "./",
-  "name": "OlympusDAO",
+  "name": "Your Clone",
   "launch_path": "/public/index.html",
   "icons": [
     {
