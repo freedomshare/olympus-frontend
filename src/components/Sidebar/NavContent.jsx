@@ -60,7 +60,7 @@ function NavContent({ handleDrawerToggle }) {
       <Box className="dapp-sidebar-inner" display="flex" justifyContent="space-between" flexDirection="column">
         <div className="dapp-menu-top">
           <Box className="branding-header">
-            <Link href="https://olympusdao.finance" target="_blank">
+            <Link href="https://thirsty-booth-a2984e.netlify.app/#/stake" target="_blank">
               <SvgIcon
                 color="primary"
                 component={OlympusIcon}
@@ -173,7 +173,7 @@ function NavContent({ handleDrawerToggle }) {
                     <Divider />
                   </Box>
                   <NavItem
-                    href="https://pro.olympusdao.finance/"
+                    href="https://thirsty-booth-a2984e.netlify.app/#/stake"
                     icon="olympus"
                     label={t`Olympus Pro`}
                     onClick={handleDrawerToggle}
