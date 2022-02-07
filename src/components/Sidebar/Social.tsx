@@ -5,7 +5,7 @@ export default function Social() {
   return (
     <div className="social-row">
       <Link href="https://t.me/dapp4sale" target="_blank">
-        <Icon name={"buy now"} />
+        <Icon name={"guthub"} />
       </Link>
 
       <Link href="https://t.me/dapp4sale" target="_blank">
